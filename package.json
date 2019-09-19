@@ -1,6 +1,6 @@
 {
   "name": "@iharisay/sonice-utilities",
-  "version": "1.0.0-1",
+  "version": "1.0.0-alpha.0",
   "description": "Utilities that are so nice!",
   "main": "index.js",
   "scripts": {
