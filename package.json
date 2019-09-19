@@ -1,0 +1,19 @@
+{
+  "name": "@iharisay/sonice-utilities",
+  "version": "1.0.0",
+  "description": "Utilities that are so nice!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianharisay/sonice-utilities.git"
+  },
+  "author": "Ian Harisay <imharisa@nuskin.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ianharisay/sonice-utilities/issues"
+  },
+  "homepage": "https://github.com/ianharisay/sonice-utilities#readme"
+}
