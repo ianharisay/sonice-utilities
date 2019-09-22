@@ -13,3 +13,17 @@ module.exports.isJSON = (str) => {
         return false;
     }
 }
+
+/**
+ * 
+ */
+module.exports.circumference = (diameter) => {
+    return Math.PI * diameter
+}
+
+/**
+ * 
+ */
+module.exports.area = (radius) => {
+    return Math.PI * radius * radius
+}
